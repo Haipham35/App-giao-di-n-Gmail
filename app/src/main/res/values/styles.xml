@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomSearchView" parent="Widget.AppCompat.SearchView">
+        <item name="android:background">#DC2239</item> <!-- Màu nền -->
+        <item name="android:icon">@drawable/baseline_youtube_searched_for_24</item> <!-- Biểu tượng tìm kiếm -->
+        <item name="android:textColor">@android:color/white</item> <!-- Màu văn bản -->
+        <item name="android:textColorHint">@android:color/darker_gray</item> <!-- Màu văn bản gợi ý -->
+    </style>
+</resources>
